@@ -1,0 +1,9 @@
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\bin\Debug\formQLNS.exe.config
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\bin\Debug\formQLNS.exe
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\bin\Debug\formQLNS.pdb
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\obj\Debug\formQLNS.csprojResolveAssemblyReference.cache
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\obj\Debug\formQLNS.frmQLNS.resources
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\obj\Debug\formQLNS.Properties.Resources.resources
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\obj\Debug\formQLNS.csproj.GenerateResource.Cache
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\obj\Debug\formQLNS.exe
+D:\GITHUB\Visual\QLnhanSu\formQLNS\formQLNS\obj\Debug\formQLNS.pdb
